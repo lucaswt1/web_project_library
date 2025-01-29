@@ -346,7 +346,7 @@
 
 .footer__columns {
   display: flex;
-  position: relative;
+  /* position: relative; */
 }
 
 .footer__column_content_hours {
